@@ -1,4 +1,4 @@
-<img width="472" height="627" alt="Screenshot 2026-11-03 at 8 13 03 AM" src="https://github.com/user-attachments/assets/6aa1b510-1a31-45d7-9b94-9108a3037e08" />
+
 # Puppet
 I made this so it easily connects to Self Reflect by Tacolamp
 # Puppet
@@ -6,6 +6,8 @@ I made this so it easily connects to Self Reflect by Tacolamp
 Shows your VRM avatar and moves it with motion data from SelfReflect or any other VMC sender.
 
 Apple Silicon Macs. Built and tested on macOS 15. Not tested on Intel Macs or older macOS versions.
+
+<img width="472" height="627" alt="Screenshot 2026-11-03 at 8 13 03 AM" src="https://github.com/user-attachments/assets/7a4d4d49-2c84-4314-9f1b-12e46f0444d2" />
 
 ## Install
 
