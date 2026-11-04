@@ -4,7 +4,10 @@ Shows your VRM avatar and moves it with motion data from SelfReflect or any othe
 
 Apple Silicon Macs. Built and tested on macOS 15. Not tested on Intel Macs or older macOS versions.
 
-<img width="472" height="627" alt="Screenshot 2026-11-03 at 8 13 03 AM" src="https://github.com/user-attachments/assets/3da005c8-3246-44e5-953c-2840abb8ea16" />
+
+<img width="472" height="627" alt="Screenshot 2026-11-03 at 8 13 03 AM" src="https://github.com/user-attachments/assets/178f6f52-cc7e-448f-8619-7b6bfc5b44d1" />
+
+
 
 ## Install
 
@@ -34,6 +37,10 @@ Sit the way you will while streaming, right-click, and click the crosshair. Pupp
 The arrow button clears it. Calibrate again if you change seats or move the phone.
 
 Face, head, eyes, torso, arms, hands, fingers, hips and legs are driven. Hips rotate but never move, so a seated pose floats. Feet are kept flat on the floor, since camera-based senders often guess their angle badly.
+
+## Seated
+
+The chair button holds your hips level and lets the spine carry any sway, so a seated body does not rock from the pelvis. Your upper body moves as before. Leave it off if you stand or dance.
 
 ## OBS
 
